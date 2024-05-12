@@ -1,0 +1,9 @@
+I	Belfast/Taihou/Friedrich der Große/Illustrious/Illustrious µ/Azuma
+H	Atago/Takao/Chapayev/Formidable/Bremerton/Sirius/Graf Zeppelin/St. Louis/Dido/Dido µ/Sovetskaya Rossiya
+G	King George V/Shoukaku/Honolulu/Roon/Roon µ/Nelson/Quincy/Marblehead/South Dakota/Houshou/Reno/Gloucester
+F	Zuikaku/Enterprise/Algérie/Monarch/Prinz Eugen/Prince of Wales/Amagi/Duke of York/Cheshire/Massachusetts/Drake/Choukai/Fusou/Yamashiro/Alabama/Littorio/Hermione
+E	Avrora/Ranger/Bismarck/North Carolina/Akagi/Akagi µ/Arizona/Hornet/Hiei/Kaga/Kongou/Suzuya/Saint Louis/Victorious/Wasp/Rodney/Nachi/Surcouf/Cygnet/Sussex/Izumo/Washington/Mainz/Jintsuu/Baltimore
+D	Tirpitz/Tennessee/Nagara/Perseus/Tartu/Ark Royal/Chicago/Essex/I-19/Pamiat Merkuria/Brooklyn/Bunker Hill/Yorktown/Hood/Northampton/Lexington/Hiryuu/Mikasa/Ise/Pennsylvania/Portland/Yat Sen/Nevada/Maryland/Kirishima/Gneisenau/Richelieu/Vestal/Shangri-La/Wichita/Shropshire/Jeanne d'Arc/Intrepid
+C	Aoba/Jean Bart/San Diego/Phoenix/Helena/Königsberg/Karlsruhe/Centaur/Hyuuga/Oklahoma/Salt Lake City/Fortune/Pensacola/Unicorn/Gascogne/Gascogne µ/Long Island/Neptune/California/Suruga/Yuudachi/Scharnhorst/Sheffield/Sheffield µ/Ibuki/Myoukou
+B	Ayanami/Javelin/Noshiro/Arethusa/Z23/Yukikaze/Admiral Graf Spee/Albacore/Dace/Haruna/Indianapolis/Fletcher/Houston/Repulse/Köln/Minneapolis/Warspite/I-26/Le Triomphant/Benson/Downes/Shigure/Casablanca/Edinburgh/Queen Elizabeth/Hermes/Columbia/Laffey/Ajax/Montpelier/Glasgow/Bulldog/Omaha/Deutschland/I-58/Ping Hai/Beagle
+A	Cleveland/Kawakaze/Bache/Hatakaze/Hammann/Concord/Shouhou/Hatsuharu/Maya/Bogue/Nagato/Kinu/Renown/Mutsu/Le Malin/Le Malin µ/McCall/Amazon/Saratoga/Sims/Tashkent/Tashkent µ/Denver/Cassin/Matsukaze/Uranami/Aulick/Z1/Spence/An Shan/Cavalla/Kisaragi/Hatsushimo/Charles Ausburne/Erebus/Grozny/Isokaze/Kamikaze/Chang Chun/Mutsuki/Admiral Hipper
