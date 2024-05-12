@@ -1,6 +1,6 @@
 # real_time_censorship_ai
 ### 訓練資料集
-#### [Link to dataset](https://drive.google.com/drive/folders/1AFANMMrncXkGczilsVHUq1udin_pRDKc?usp=sharing)
+### [Link to dataset](https://drive.google.com/drive/folders/1AFANMMrncXkGczilsVHUq1udin_pRDKc?usp=sharing)
 
 ### 使用yolov7
 ### [Link To YOLOv7 REPO](https://github.com/WongKinYiu/yolov7])
